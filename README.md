@@ -1,3 +1,7 @@
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![badge](https://img.shields.io/badge/For-CTF%20players-red.svg)](https://shields.io/)
+[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
+<br>
 All accept a GET parameter, cmd, to execute commands. 
 <br>
 <h2>What is upload.py?</h2>
